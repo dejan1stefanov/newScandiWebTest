@@ -1,0 +1,13 @@
+.font14 {
+    font-size: 14px;
+}
+
+.allProducts {
+    min-height: 76vh;
+}
+.addProductMain {
+    min-height: 76vh;
+}
+.innerCard {
+    height: 192px;
+}
